@@ -41,7 +41,7 @@ stop-words==2018.7.23
 stopit==1.1.2
 svgwrite==1.2.1
 sympy==1.4
-tensorflow==1.13.1
+tensorflow==2.5.1
 tensorflow-estimator==1.13.0
 tensorflow-hub==0.4.0
 tensorflow-probability==0.7.0
